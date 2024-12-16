@@ -62,7 +62,7 @@ This project is a simple command-line interface (CLI) built in Java 21 that fetc
 
 ## Example
 ```bash
-java -jar target/github-activity-1.0-SNAPSHOT.jar
+java -jar target/github-activity-1.0.jar
 github-activity octocat
 ```
 This would fetch and display the recent activity of the GitHub user "octocat".
