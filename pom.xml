@@ -49,6 +49,7 @@
                                 </excludes>
                             </filter>
                         </filters>
+                        <finalName>${project.artifactId}-${project.version}</finalName>
                     </configuration>
                 </execution>
             </executions>
