@@ -19,7 +19,7 @@ This project is a simple command-line interface (CLI) built in Java 21 that fetc
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)vekz-fm/github-user-activity-cli.git)
+    git clone https://github.com/)vekz-fm/github-user-activity-cli.git
     ```
 
 2.  **Navigate to the project directory:**
