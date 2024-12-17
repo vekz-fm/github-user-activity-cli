@@ -2,7 +2,7 @@
 
 This project is a simple command-line interface (CLI) built in Java 21 that fetches and displays the recent activity of a GitHub user. It utilizes the GitHub API to retrieve data and presents it in a user-friendly format within the terminal. This project is a great exercise for practicing skills such as working with APIs, handling JSON data, and building CLI applications.
 
-It is a solution for the Task Tracker challenge from [roadmap.sh](https://roadmap.sh/projects/github-user-activity).
+It is a solution for the GitHub User Activity challenge from [roadmap.sh](https://roadmap.sh/projects/github-user-activity).
 
 ## Features
 
